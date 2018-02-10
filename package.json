@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-workout-rn",
+  "version": "1.0.0",
+  "description": "Workout App React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonydavis33/dynamic-workout-rn.git"
+  },
+  "keywords": [
+    "workout",
+    "body",
+    "health"
+  ],
+  "author": "Anthony Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonydavis33/dynamic-workout-rn/issues"
+  },
+  "homepage": "https://github.com/anthonydavis33/dynamic-workout-rn#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.53.0"
+  }
+}
